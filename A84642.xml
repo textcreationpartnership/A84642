@@ -1,0 +1,425 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of several passages and letters between His Excellency Benjamin Fletcher, captain general and governour in chief of the province of New-York, province of Pennsilvania, county of New-Castle, &amp;c. commissionated by Their Majesties under the Great Seal of England, to be their lieut. and commander in chief of the militia, and of all forces by sea and land within Their Majesties collony of Connecticut, and of all forts and places of strength within the same. And the present administrators of the laws in the collony of Connecticut, in the month of October, 1693</title>
+            <author>New York (State). Governor (1692-1698 : Fletcher)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84642</idno>
+            <idno type="STC">Wing F1299</idno>
+            <idno type="STC">ESTC W16315</idno>
+            <idno type="EEBO-CITATION">99897530</idno>
+            <idno type="PROQUEST">99897530</idno>
+            <idno type="VID">170876</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84642)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170876)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2499:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of several passages and letters between His Excellency Benjamin Fletcher, captain general and governour in chief of the province of New-York, province of Pennsilvania, county of New-Castle, &amp;c. commissionated by Their Majesties under the Great Seal of England, to be their lieut. and commander in chief of the militia, and of all forces by sea and land within Their Majesties collony of Connecticut, and of all forts and places of strength within the same. And the present administrators of the laws in the collony of Connecticut, in the month of October, 1693</title>
+                  <author>New York (State). Governor (1692-1698 : Fletcher)</author>
+                  <author>Fletcher, Benjamin, 1640-1703.</author>
+                  <author>Treat, Robert, ca. 1622-1710.</author>
+                  <author>Connecticut. General Assembly.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by William Bradford, printer to Their Majesties, King William and Queen Mary, at the Bible in New-York,</publisher>
+                  <pubPlace>[New York] :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Concerning Gov. Fletcher's attempt to assume control of the Connecticut militia, and Connecticut's resistance thereto.</note>
+                  <note>Caption title.</note>
+                  <note>"A true copy, examined and allowed to be printed, by M. Clarkson, secretary."--p. 8.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Connecticut. --  Militia --  Early works to 1800.</term>
+               <term>New York (State) --  History --  Colonial period, ca. 1600-1775 --  Early works to 1800.</term>
+               <term>Connecticut --  History --  Colonial period, ca. 1600-1775 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:170876:1" rendition="simple:additions"/>
+            <pb facs="tcp:170876:2"/>
+            <pb n="1" facs="tcp:170876:2"/>
+            <head>AN ACCOUNT OF Several Paſſages and Letters between his Excellency <hi>Benjamin Fletcher,</hi> Captain General and Governour in Chief of the Province of <hi>New-York,</hi> Province of <hi>Pennſilvania,</hi> Country of <hi>New-Caſtle, &amp;c.</hi> Commiſſionated by their Majeſties under the great Seal of <hi>England,</hi> to be their Lieut. and Commander in chief of the Militia, and of all the Forces by Sea and Land within their Majeſties Collony of <hi>Connecticut,</hi> and of all the Forts and places of Strength within the ſame.</head>
+            <head type="sub">AND The preſent Adminiſtrators of the Laws in the Collony of <hi>CONNECTIC<g ref="char:V">Ʋ</g>T,</hi> in the Month of <hi>October,</hi> 1693.</head>
+            <p>ON the 13th of <hi>October,</hi> his Excellency departed from <hi>New-York,</hi> towards <hi>Connecticut,</hi> in order to the Publication of their Majeſties Letters Patents for, and taking upon him the Command of the Militia in that Collony.</p>
+            <p>The 14th day he arrived at <hi>Millford</hi> Bay, and writ this Letter from on board, to Governour <hi>Treat</hi> at <hi>Millford:</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>Millford <hi>Bay,</hi> 
+                        <date>
+                           <hi>October</hi> 14. 1693.</date>
+                     </dateline>
+                     <salute>SIR;</salute>
+                  </opener>
+                  <p>IN Obedience to their Majeſties Commiſſion, directed to me for the Command of their Militia of the Collony of <hi>Connecticut,</hi> I am come to publiſh the ſame, and to take that Truſt upon me; and in the firſt place have thought fit to communicate their Majeſties Royal Pleaſure to you, as a Perſon that has acted in chief Rank of the Government, and diſcharged that Truſt with a fair Reputation: I have ſent this Gentleman their Majeſties Secretary for the Province of <hi>New-York,</hi> to acquaint you with what may be further ſaid upon this occaſion, and to deſire your directions, how I may beſt ſteer my ſelf for the publiſhing of their Maje<g ref="char:EOLhyphen"/>ſties Commands, to render them moſt effectual for the preſent Service.</p>
+                  <closer>
+                     <signed>I am, SIR, Your Humble Servant, BEN. FLETCHER.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Hereunto his Excellency received no Anſwer.</p>
+            <pb n="2" facs="tcp:170876:3"/>
+            <p>The 15th day his Excellency arrived at <hi>New-Haven,</hi> and his Horſes not coming, on the 17th he wrote this following Letter to the Governor and General Court of <hi>Connecticut,</hi> ſitting at <hi>Hartford.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <hi>New-Haven,</hi> 
+                        <date>
+                           <hi>October</hi> 17. 1693.</date>
+                     </dateline>
+                     <salute>Gentlemen;</salute>
+                  </opener>
+                  <p>I Landed at this place ſome-what late Sabbath day at night; my Horſes and other conveniences being aboard another Sloop, and not yet come up, has detained me longer here than I deſigned or deſired: Being informed your General Court is now ſitting, I am willing to communicate their Majeſties Command to you while you are together, conceiving it will moſt conduce to their Majeſties ſervice, and therefore I deſire you will not adjourn your ſelves till I can come up to <hi>Hartford,</hi> which ſhall be without loſs of time, ſo ſoon as my Horſes arrive, which I hourly expect.</p>
+                  <closer>
+                     <signed>I am, Gentlemen, <hi>Your Humble Servant,</hi> Ben. Fletcher.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>To which Letter his Excellency had this Anſwer.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To his Excellency <hi>Benjamin Fletcher,</hi> Capt. General and Governour in chief of their Majeſties Province of <hi>New-York, &amp;c.</hi>
+                  </head>
+                  <opener>
+                     <dateline>
+                        <hi>Hartford,</hi> 
+                        <date>
+                           <hi>October</hi> 18. 1693.</date>
+                     </dateline>
+                     <salute>Excellent SIR;</salute>
+                  </opener>
+                  <p>YOur Letter of the 17th Inſtant, at one of the Clock in the afternoon, about 2 of the Clock this Morning came to our Governours hand, who hath acquainted us with the Receipt of yours, and of the occaſion which hath detained your Excellency longer in thoſe parts than you de<g ref="char:EOLhyphen"/>ſired or deſigned; as alſo, that your Excellency deſires that we would not adjourn our ſelves till you can come up to <hi>Hartford.</hi> In anſwer to which your Excellency may be pleaſed by theſe to be informed, That our general Court hath been together upon their Majeſties ſervice ever ſince <hi>Thurſday</hi> laſt, and are about diſpatching the Affairs under hand, as we may, but ſhall not break up till <hi>Fryday</hi> next, and ſhall be ready to wait upon your Ex<g ref="char:EOLhyphen"/>cellency in General Court, to hear or receive from you what you have to acquaint us with, that may be for their Majeſties Service, and the publick good of their Subjects. Which with Reſpects and Service to your Excellency, is all at preſent from your humble Servants, <hi>The Go<g ref="char:EOLhyphen"/>vernour and General Court of their Majeſties Collony of</hi> Connecticut.</p>
+                  <closer>
+                     <signed>By their Order, ſigned by me, <hi>John Allyn,</hi> Secretary.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The ſame day his Excellency wrote to them as followeth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To the Governour and General Court of <hi>Connecticut,</hi> at <hi>Hartford.</hi>
+                  </head>
+                  <opener>
+                     <dateline>
+                        <hi>New-Haven,</hi> 
+                        <date>
+                           <hi>October</hi> 19. <hi>at</hi> 11 <hi>clock in morning.</hi>
+                        </date>
+                     </dateline>
+                     <salute>Gentlemen;</salute>
+                  </opener>
+                  <p>THis day about 10 a clock I had the favour of yours. Finding the wind continue Northerly, I can get no news of my Horſes, ſo that I cannot propoſe <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> getting up to <hi>Hartford</hi> to morrow. I therefore
+<pb n="3" facs="tcp:170876:3"/>deſire that you will pleaſe to adjourn to this place, where a very ſhort time will allow me to lay before you ſuch things as I have to offer for their Majeſties ſervice.</p>
+                  <closer>
+                     <signed>I am, Gentlemen, <hi>Your humble Servant, Ben. Fletcher.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>And in Anſwer to that Letter his Excellency had this Return.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <hi>Hartford,</hi> 
+                        <date>
+                           <hi>October</hi> 20. 1693.</date>
+                     </dateline>
+                     <salute>Excellent SIR;</salute>
+                  </opener>
+                  <p>YOurs of the 19th inſtant we have received, and in anſwer thereunto we return, We cannot, under our preſent Circumſtances, adjourn to <hi>New-Haven,</hi> and have choſe rather, (tho' we have waited ſeveral days to attend your Excellency in General Court) to reſolve to continue our general Court by adjournment till <hi>Tueſday</hi> next about ten of the clock. Which is all the needful at preſent from your humble Servants, <hi>The Go<g ref="char:EOLhyphen"/>vernour and general Court.</hi>
+                  </p>
+                  <closer>
+                     <signed>By their Order, ſigned by me, <hi>John Allyn,</hi> Secr.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>His Excellency departed from <hi>New-Haven</hi> the 22th day in the Even<g ref="char:EOLhyphen"/>ing, and lodged at <hi>Wallingford</hi> that night.</p>
+            <p>The 23d day he arrived at <hi>Hartford.</hi> The next morning he went to the General Court then ſitting, there publiſhed their Majeſties Letters Patents, and left with them the following Memorial.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>A Memorial to the Governour and General Court for the Collony of <hi>Con<g ref="char:EOLhyphen"/>necticut,</hi> ſitting at <hi>Hartford,</hi> October <hi>24. 1693.</hi>
+                  </head>
+                  <p>
+                     <hi>BEnjamin Fletcher</hi> their Majeſties Capt. General and Governour in chief in and over their Majeſties Provinces of <hi>New-York, Pennſil<g ref="char:EOLhyphen"/>vania, &amp;c.</hi> Gives in this Memorial, to which he deſires a Reply, without loſs of time, their Majeſties Service calling for his immediate Repair to the Fronteers, &amp;c.</p>
+                  <p>He ſays, being come into this Collony with their Majeſties Commiſſion under their great Seal of <hi>England,</hi> to act as their Lieutenant and Com<g ref="char:EOLhyphen"/>mander in chief of the Militia, and of all the Forces by Sea and Land within their Majeſties Collony of <hi>Connecticut,</hi> and of all the Forts and places of Strength within the ſame. Which Commiſſion he does here produce, and expect a ready Complyance to it, from all their Majeſties loving Subjects, that he may proceed to the execution of that Truſt.</p>
+                  <closer>
+                     <signed>Ben. Fletcher.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Coll. <hi>Bayard</hi> and Secretary <hi>Clarkſon</hi> were ſent with this following Meſſage.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Gentlemen;</salute>
+                  </opener>
+                  <p>WE are come from the General to acquaint you, that juſt now he received an Expreſs, with Letters from <hi>Albany,</hi> which give him
+<pb n="2" facs="tcp:170876:4"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="3" facs="tcp:170876:4"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="4" facs="tcp:170876:5"/>an account of the weakneſs of that Garriſon, and the growing ſtrength of the Enemy.</p>
+                  <p>We are further to acquaint you, That theſe delays of yours do very much hinder the neceſſary Affairs of their Majeſties here: His Excel<g ref="char:EOLhyphen"/>lency has no directions nor inſtructions from the King to make any applications to your ſelves; he has not publiſht his Commiſſion until he did it in this Court; nor could he ſuppoſe, neither will it be believed in <hi>England</hi> that an Engliſh Collony ſhould deny the Rights of their Pro<g ref="char:EOLhyphen"/>teſtant King.</p>
+                  <p>The Letters from <hi>Albany</hi> do ſtill intimate, That they are apprehenſive that they will be attacked by the Enemy, and if that Poſt ſhould be loſt for want of your Complyance to their Majeſties Commiſſion, you may be ſenſible of what dangerous conſequence the ſame would be to your ſelves.</p>
+                  <p>The <hi>Jarſeys</hi> are under the ſame Circumſtances with your ſelves, in reſpect of their Charter, yet have willingly ſubmitted to the Kings plea<g ref="char:EOLhyphen"/>ſure and Right of the Millitia, who are commanded by his Excellency; <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Governour of that Collony acts there without the leaſt interrup<g ref="char:EOLhyphen"/>tion: He calls Aſſemblies, makes Laws, raiſes Money, ordains and keeps Courts, only commands the Militia under his Excellency, who has not altered one ſingle Officer in that Collony.</p>
+                  <p>
+                     <hi>Gentlemen,</hi> We are to conclude with the laſt thing his Excelleny gave us in charge, That the fatal Conſequences of your Proceedures, as it appears to his Excellency, will be repented by you and your Poſterity when 'tis too late: You are the only People in all the Kings Dominions that will venture to diſpute with our King, who is a Souldier, concerning that inherent Right of the Militia, ſettled upon the Crown by ſeveral Acts of Parliament, and cannot be aliened nor demiſed.</p>
+                  <closer>
+                     <signed>N. Bayard, M. Clarkſon.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The 26th day his Excellency received the following Paper from the General Court.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To his Excellency <hi>Benjamin Fletcher,</hi> Captain General and Governour in Chief of their Majesties Province of <hi>New-York, &amp;c.</hi>
+                  </head>
+                  <p>IN Return to your Excellency's Demands of the Militia, of us their Majeſties general Court of their Collony of <hi>Connecticut,</hi> We ſay, That finding in your Excellency's Commiſſion no expreſs ſuperſeding of the Commiſſion of the Militia in our Charter, nor no Order to us from their Majeſties to ſurrender the ſame; and being ſenſible of the great Importance of this matter, and finding it in ſeveral main things which do need a particular Explication and Settlement, as we ſhall, God willing, manifeſt to their Majeſties, cannot but conceive it our Duty, both with reſpect to their Majeſties Service, and our own Peace and Preſervation in this time of War, to continue the Militia as formerly, till by our Agent, now ſent for <hi>England,</hi> we ſhall receive farther Orders from their Majeſties.</p>
+                  <pb n="5" facs="tcp:170876:5"/>
+                  <p>And in Obedience to their Majeſties gracious Letters, of <hi>March</hi> the 3d. 1692. we ſhall be ready upon all juſt occaſions, to yeild Aſſiſtance to his Excellency Coll. <hi>Benjamin Fletcher,</hi> 
+                     <abbr>Eſq</abbr> his Majeſties Captain General and Governour of <hi>New-York, &amp;c.</hi> and to the Commander there in Chief for the time being for the Defence of the ſaid Province againſt the common Enemy, according to our Ability, and in proportion with our Neighbouring Collonies and Provinces, altho' we have already been out above five Thouſand Pounds for the defending our Neighbours of <hi>Albany</hi> ſince the War began, beſides the loſs of Lives. And further, this Court does ſee reaſon to grant the ſum of ſix hundred Pounds in Country Pay, out of our Country Rate, towards the Charge of maintaining the Garriſon at <hi>Albany,</hi> on<g ref="char:EOLhyphen"/>ward of what ſhall be our Proportion of that Charge, in Obedience to Their Majeſties Letter of the 3d of <hi>March</hi> laſt.</p>
+                  <closer>
+                     <signed>By Order of the Governour and Ge<g ref="char:EOLhyphen"/>neral Court of <hi>Connecticut,</hi> ſigned by, <hi>John Allyn,</hi> Secr.</signed>
+                     <dateline>
+                        <hi>Hartford,</hi> 
+                        <date>
+                           <hi>October</hi> 25. 1693.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>And about two hours after his Excellency made this Return by Coll. <hi>Bayard.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To the Governour and General Court of <hi>Connecticut,</hi> ſitting at <hi>Hartford, October 26. 1693.</hi>
+                  </head>
+                  <opener>
+                     <salute>Gentlemen;</salute>
+                  </opener>
+                  <p>I Have received your Paper, which is no Anſwer to my Memorial; for I do not demand the Militia from you, knowing very well, as you your ſelves do, That you have no right to it, it being ſettled on the Kings and Queens of <hi>England</hi> and their Succeſſors, by ſeveral Acts of Parliament, and by no Power on Earth can be demiſed from the preſent Poſſeſſor of the Crown. But I have, in tender regard to this <hi>Engliſh</hi> Collony given in my Memorial to you, the preſeur Adminiſtrators of the Government here, in expectation of your ready Compliance to their Majeſties Patent, and your Aſſiſtance to me, being a ſtranger in theſe parts, for the more ſpeedy and effectual execution of that lawful Commiſſion, whith is granted in Grace by their Majeſties, as well for your Security and Defence, as the Aſſertion of their own Right, and this has in no part of their Dominions found a Rub or Conteſt.</p>
+                  <p>I do therefore in their Majeſties Names demand your Obedience to this Com<g ref="char:EOLhyphen"/>miſſion, as you will anſwer the Conſequences that will enſue; and expect a ſpeedy Reply in one of theſe two words, <hi>Yes,</hi> or <hi>No.</hi>
+                  </p>
+                  <closer>
+                     <signed>Ben. Fletcher.</signed>
+                  </closer>
+                  <postscript>
+                     <p>
+                        <hi>By his Excellency</hi> Benjamin Fletcher, <hi>Their Majeſties Lieutenant and Commander in Chief of the Militia, and of all the Forces by Sea and Land within their Majeſties Collony of</hi> Connecticut, <hi>and of all the Forts and places of Strength within the ſame.</hi>
+                     </p>
+                     <p>M. Clarkſon, <hi>Secretary.</hi>
+                     </p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <p>Coll. <hi>Bayard</hi> had alſo in Charge to deliver this Meſſage.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Gentlemen;</salute>
+                  </opener>
+                  <p>I Am further to tell you from his Excellency, the General, That he is reſolved to put their Majeſties Commiſſion in Execution, and immediately iſſue forth a Pro<g ref="char:EOLhyphen"/>clamation, ſhewing the method he has taken for the eaſe and ſatisfaction of their Majeſties Subjects in this Collony, leaving the Militia in the ſame hands he found it. And I am alſo directed by his Excellency to make you, Governour <hi>Treat,</hi> a
+<pb n="4" facs="tcp:170876:6"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="5" facs="tcp:170876:6"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="6" facs="tcp:170876:7"/>tender of a Commiſſion from him, for the Command of all the Militia in this Collony. And alſo to acquaint this Court, That his Excellency has neither Power nor Intention to invade any of their Civil Rights, but that all things may run in the ſame Channel, with no alteration, but only your acknowledging the Power of the Militia an inherent Right in their Majeſties.</p>
+                  <p>And I may aſſure you from his Excellency, That he will not ſet a foot out of this Collony till he ſees an Obedience paid to this Commiſſion, by all ſuch as are Loyal Subjects to their Majeſties, and will diſtinguiſh the reſt.</p>
+                  <closer>
+                     <signed>
+                        <hi>By his Excellency's Command,</hi> N. BAYARD.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Coll. <hi>Bayard</hi> returning from the General Court, <hi>&amp;c.</hi> acquainted his Excellency That they deſired a Copy of their Majeſties Letters Patents, and that they pro<g ref="char:EOLhyphen"/>miſed to make a ſpeedy Reply to his Excellency's Anſwer ſent by the aforeſaid Coll. <hi>Bayard.</hi>
+            </p>
+            <p>His Excellency ordered Coll. <hi>Bayard</hi> and Secretary <hi>Clarkſon</hi> immediately to carry the Original Patent to the General Court, and to leave it with them for their peruſal, and withal to require them to cauſe it to be entred in the Publick Records of this Collony. Which Meſſage was accordingly performed. Whereupon Secretary <hi>Allyn</hi> made anſwer, That it could not be done whilſt the Court was fitting; but ſeemed to be willing to do the ſame after the Court ſhould be broke up; and then promiſed to return the Original to his Excellency.</p>
+            <p>In the Evening, the following Paper was ſent to his Excellency from the General Court.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To his Excellency Collonol <hi>Benjamin Fletcher,</hi> 
+                     <abbr>Eſq</abbr> Captain General and Governour in Chief of their Majeſties Province of <hi>New-York,</hi> &amp;c.</head>
+                  <opener>
+                     <dateline>
+                        <hi>Hartford,</hi> 
+                        <date>
+                           <hi>Octob.</hi> 26. 1693.</date>
+                     </dateline>
+                     <salute>Excellent SIR;</salute>
+                  </opener>
+                  <p>YOurs of <hi>October</hi> 26. we have received, wherein your Excellency tells us, That you have received our Paper, which is no anſwer to your Memorial, <hi>&amp;c.</hi> We have duely conſidered what we have received from your Excellency, and do return, That we have in our Anſwer to your Memorial, fully informed your Excellency of our Opinion of thoſe things you mentioned to us therein, which you may pleaſe to take as our Anſwer. Yet further, we ſay, That we agree with your Excellency, That the Inherent Right in the Militia belongs to their Ma<g ref="char:EOLhyphen"/>jeſties, and that it is at his diſpoſe, and hath been ſettled upon us under the great Seal of <hi>England,</hi> and enjoyed by us the two laſt Reigns, and ever ſince our preſent Soveraign Lord and Lady, King <hi>William</hi> and Queen <hi>Mary,</hi> (whom God preſerve) came to the Crown; and lately, we receiv'd ſome directions from them, in order to the Improvement of the ſame, which we ſhall attend; and therefore our deſire is, That you would not interrupt us in our enjoyment of the ſame, till we have opportunity to underſtand their Majeſties further Pleaſure therein; which we truſt will be no prejudice their Majeſties Intereſt, and may be a good means to prevent future Inconveniencies.</p>
+                  <closer>
+                     <signed>
+                        <hi>By Order of the Governour and General Court, ſigned by me,</hi> John Allyn, <hi>Secretary.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>And the next day this following Memorial.</p>
+            <pb n="7" facs="tcp:170876:7"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>A Memorial from the Governour and General Court of <hi>Connecticut</hi> Collony, To his Excellency <hi>Benjamin Fletcher,</hi> the 27th of October, <hi>1693.</hi>
+                  </head>
+                  <opener>
+                     <salute>Excellent SIR;</salute>
+                  </opener>
+                  <p>VVE have, in our former to your Excellency, tendered you Six Hundred Pounds in Country pay, out of our Rate, towards the charge of maintaining the Garriſon at <hi>Albany,</hi> onward of what ſhall be our Proportion of that Charge. We deſire your Excellency's Anſwer, whether that be acceptable to you. But if you judge it more for Their Majeſties Service to have Men, we ſhall raiſe about fifty Men to aſſiſt in Garriſoning <hi>Albany,</hi> who we ſhall raiſe and ſend forth with what ſpeed we may, to continue there till the Spring, to the end of <hi>March,</hi> or firſt of <hi>April</hi> next. We crave your Excellency's Anſwer, who are, <hi>Your Humble Servants, The Governour and General Court of</hi> Connecticut.</p>
+                  <closer>
+                     <signed>
+                        <hi>By their Order, ſigned,</hi> John Allyn, <hi>Secr.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>To which his Excellency made this Anſwer.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>His Excellency's Anſwer to the Memorial of the Governour and general Court of <hi>Connecticut</hi> Collony, the 27 of <hi>October, 1693.</hi>
+                  </head>
+                  <opener>
+                     <salute>Gentlemen;</salute>
+                  </opener>
+                  <p>I Have your Memorial of this day before me, and in anſwer thereunto I thik fit to tell you, I am Their Majeſties Lieutenant and Commander in Chief of all the Military Forces in this Collony. And that by my Commiſſion, publiſh'd in your General Court, all other Military Commiſſions are ſuperſeded, and actually void. When you think fit to acknowledge the Power of this Patent, which has never found a Diſpute by any of their Majeſties Subjects in any part of their Dominions, I ſhall then readily proceed to conſult with you of ſuch Methods, for the ſettling the Militia here, as may be moſt for the eaſe of Their Majeſties Subjects, and the Security and Safety of the Fronteers of <hi>Albany,</hi> and this Collony. In the mean time I conceive my ſelf obliged to purſue the Ex<g ref="char:EOLhyphen"/>ecution of their Majeſties Letters Patents, to me directed, till I find an open Violation of their Majeſties Right by Force of Arms.</p>
+                  <closer>
+                     <signed>
+                        <hi>By Commands of their Majeſties Lieutenant and Commander in Chief of the Military Forces in this Collony,</hi> M. Clarkſon, <hi>Secretary.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Upon the delivery of the above Memorial, the general Court diſperſed, and returned no Anſwer.</p>
+            <p>During his Excellency's ſtay at <hi>Hartford</hi> he had twice Conference with Governour <hi>Treat,</hi> Secretary <hi>Allyn,</hi> Mr. <hi>Pitkin</hi> and Mr. <hi>Stanley,</hi> who attended his Excellency at his Lodging. His <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xcellency having heard what they had to ſay, anſwered their ſeveral Arguments, in particular to their Allegations, That they had enjoyed their Militia the two laſt Reigns, and ſince their preſent Majeſties came to the Crown, ſaid,</p>
+            <pb n="8" facs="tcp:170876:8" rendition="simple:additions"/>
+            <p>
+               <q>
+                  <hi>Gentlemen,</hi> You cannot ſay you had the Power of the Militia in the late Reign, Sir <hi>Edmund Andros</hi> being received and owned your Governour, from whom you received Commiſſions, under him you acted, and ſwore Allegiance to that Government.</q>
+            </p>
+            <p>
+               <q>Nor can you truly ſay, you had the Power of your Militia under their preſent Majeſties, Sir <hi>William Phipps</hi> having a Commiſſion under the great Seal for that Truſt, which is ſuperſeded and nulled by expreſs words in this Commiſſion to me.</q>
+            </p>
+            <p>And then concluded thus:</p>
+            <p>
+               <q>You are permitted by your Charter, in caſe of eminent Danger, to arm and array the Subjects of this Collony, but I do not find you are impowered to give Commiſſions and keep up a ſtanding Militia.</q>
+            </p>
+            <p>
+               <q>I do therefore require you, Coll. <hi>Treat,</hi> to give Obedience to this Commiſſion, and I do tender you the chief Command of all the Militia in this Collony, under my ſelf.</q>
+            </p>
+            <p>Then his Excellency publiſhed his Proclamation.</p>
+         </div>
+         <div type="license">
+            <p>
+               <hi>A true Copy, Examined and allowed to be Printed, by</hi> M. Clarkſon, <hi>Secretary.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed and Sold by <hi>William Bradford,</hi> Printer to their Majeſties, King <hi>William</hi> and Queen <hi>Mary,</hi> at the Bi<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> in <hi>New-York,</hi> 1693.</p>
+            <pb facs="tcp:170876:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
